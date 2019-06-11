@@ -1,4 +1,4 @@
-```c
+
 [a z]
 	a = g
 	b = g
@@ -26,7 +26,7 @@
 	x = n
 	y = o
 	z = g
-```
+
 
 [working special chars]
 ♥ = L
