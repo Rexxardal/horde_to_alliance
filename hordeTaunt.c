@@ -1,5 +1,5 @@
 
-[a z]
+[a z] 
 	a = g
 	b = g
 	c = o
