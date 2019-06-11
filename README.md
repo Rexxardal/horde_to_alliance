@@ -52,3 +52,7 @@ Russian
 Chinese
 More Languages +
 Random special characters I have not found yet
+
+
+Note:
+Don't come crying if you get silenced or banned by Blizzard, its your call what and how you say things :)
