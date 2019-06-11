@@ -1,0 +1,77 @@
+[Scripts]
+/script SendChatMessage("aback", "say", "Gutterspeak");
+/script SendChatMessage("magi", "say", "Orcish");
+
+[Gutterspeak]
+nix = wos
+aback = borne
+admen = regen
+ss = me
+
+[Two]
+sb = no
+♥п = No
+™а = Go
+ыф = ur
+♥a = Th
+┬◄ = GE
+[Three]
+d c d = l o l
+sa ↑ = gi T
+♥s ↑= Ge T
+♥мм = Rat
+kp ■ = il L
+╒s╒╒ = ThRO
+●as = Mag
+●as● = Gul'
+ссс = rev
+[Four]
+† kp ■ = K il L
+ew ™ ♥ = gi R L
+ab ab = ha ha
+↨g ↨g = Ma Ma
+↓ lx † = M il K
+Pppp = Dogg
+R M Z M = N A G A
+
+
+ab ab 27 11 11 = ha ha MU Ha Ha
+​ย ​ํ ไ้ L t A A F = RA GE MO RE N l G G A
+‹ ™ ” D D = T R O L L
+205 ​ู ‹ = TAR GE T
+™ • ‹ = R A T
+€ • ∙ ∙ ” ‹ = M A G G O T
+W R W T = A N A L
+O Y O = L O L
+€ Y € = M O M
+€ t D ◦ = M l L K
+‹ t ‹ = T l T
+J H M J M D = N O A N A L
+FLFD = ANAL
+
+27 11 11 = MU HA HA
+232 232 = ZUG ZUG
+c c a f = o o g a
+
+TYU = LOL
+
+‚ ð ‚ ↓ lx † = T i T M il K
+a f R † = g a N K
+11 d d c = HA l l o
+
+R M Z M ↨ h h † ↓= N A G A
+
+™ n b [ph] n = R o g [ph] o
+
+qds→ N N Pppp = no'G o o Dogg
+
+PPPp ↓ lx † = DOGg M il K
+
+♥s ↑ ↓ lx † ♥мм = Ge T M il K Rat
+™а ♥s ↑ ↓ lx † ♥мм = Go Ge T M il K Rat
+
+ыф ew ™ ♥ ↓ lx † = ur gi R L M il K
+
+ыф ↨g ↨g ↓ lx † = ur Ma Ma M il K
+
+☻ l↑↑↑ ♥a œ ↨ = R oGER Th a T

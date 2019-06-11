@@ -1,0 +1,751 @@
+
+[A]
+aa = ag
+ab = ha
+ac = ag
+ad = ha
+ae = ag
+af = ha
+ag = gi
+ah = ha
+ai = ag
+aj = ha
+ak = ag
+al = ha
+am = gi
+an = ha
+ao = ag
+ap = ka
+aq = ha
+ar = ag
+as = ha
+at = ag
+au = ha
+av = ag
+aw = no
+ax = ag
+ay = ha
+az = ag
+
+[B]
+ba = ka
+bb = ko
+bc = ka
+bd = ko
+be = ka
+bf = ko
+bg = il
+bh = ko
+bi = ka
+bj = ko
+bk = ka
+bl = ko
+bm = il
+bn = ko
+bo = ka
+bp = ag
+bq = ko
+br = ka
+bs = ko
+bt = ka
+bu = ko
+bv = ka
+bw = mu
+bx = ka
+by = ko
+bz = ka
+
+[C]
+ca = gi
+cb = no
+cc = gi
+cd = no
+ce = gi
+cf = no
+cg = ag
+ch = no
+ci = gi
+cj = no
+ck = gi
+cl = no
+cm = ag
+cn = no
+co = gi
+cp = il
+cq = no
+cr = gi
+cs = no
+ct = gi
+cu = no
+cv = gi
+cw = ha
+cx = gi
+cy = no
+cz = gi
+
+
+[D]
+da = il
+db = mu
+dc = il
+dd = mu
+de = il
+df = mu
+dg = ka
+dh = mu
+di = il
+dj = mu
+dk = il
+dl = mu
+dm = ka
+dn = mu
+do = il
+dp = gi
+dq = mu
+dr = il
+ds = mu
+dt = il
+du = mu
+dv = il
+dw = ko
+dx = il
+dy = mu
+dz = il
+
+
+[E]
+ea = ha
+eb = ag
+ec = ha
+ed = ag
+ee = ha
+ef = ag
+eg = no
+eh = ag
+ei = ha
+ej = ag
+ek = ha
+el = ag
+em = no
+en = ag
+eo = ha
+ep = ko
+eq = ag
+er = ha
+es = ag
+et = ha
+eu = ag
+ev = ha
+ew = gi
+ex = ha
+ey = ag
+ez = ha
+
+
+[F]
+fa = ko
+fb = ka
+fc = ko
+fd = ka
+fe = ko
+ff = ka
+fg = mu
+fh = ka
+fi = ko
+fj = ka
+fk = ko
+fl = ka
+fm = mu
+fn = ka
+fo = ko
+fp = ha
+fq = ka
+fr = ko
+fs = ka
+ft = ko
+fu = ka
+fv = ko
+fw = il
+fx = ko
+fy = ka
+fz = ko
+
+[G]
+ga = gi
+gb = no
+gc = gi
+gd = no
+ge = gi
+gf = no
+gg = ag
+gh = no
+gi = gi
+gj = no
+gk = gi
+gl = no
+gm = ag
+gn = no
+go = gi
+gp = il
+gq = no
+gr = gi
+gs = no
+gt = gi
+gu = no
+gv = gi
+gw = ha
+gx = gi
+gy = no
+gz = gi
+
+[H]
+ha = mu
+hb = il
+hc = mu
+hd = il
+he = mu
+hf = il
+hg = ko
+hh = il
+hi = mu
+hj = il
+hk = mu
+hl = il
+hm = ko
+hn = il
+ho = mu
+hp = no
+hq = il
+hr = mu
+hs = il
+ht = mu
+hu = il
+hv = mu
+hw = ka
+hx = mu
+hy = il
+hz = mu
+
+
+[I]
+ia = ag
+ib = ha
+ic = ag
+id = ha
+ie = ag
+if = ha
+ig = gi
+ih = ha
+ii = ag
+ij = ha
+ik = ag
+il = ha
+im = gi
+in = ha
+io = ag
+ip = ka
+iq = ha
+ir = ag
+is = ha
+it = ag
+iu = ha
+iv = ag
+iw = no
+ix = ag
+iy = ha
+iz = ag
+
+
+[J]
+ja = ka
+jb = ko
+jc = ka
+jd = ko
+je = ka
+jf = ko
+jg = il
+jh = ko
+ji = ka
+jj = ko
+jk = ka
+jl = ko
+jm = il
+jn = ko
+jo = ka
+jp = ag
+jq = ko
+jr = ka
+js = ko
+jt = ka
+ju = ko
+jv = ka
+jw = mu
+jx = ka
+jy = ko
+jz = ka
+
+
+[K]
+ka = gi
+kb = no
+kc = gi
+kd = no
+ke = gi
+kf = no
+kg = ag
+kh = no
+ki = gi
+kj = no
+kk = gi
+kl = no
+km = ag
+kn = no
+ko = gi
+kp = il
+kq = no
+kr = gi
+ks = no
+kt = gi
+ku = no
+kv = gi
+kw = ha
+kx = gi
+ky = no
+kz = gi
+
+
+
+[L]
+la = il
+lb = mu
+lc = il
+ld = mu
+le = il
+lf = mu
+lg = ka
+lh = mu
+li = il
+lj = mu
+lk = il
+ll = mu
+lm = ka
+ln = mu
+lo = il
+lp = gi
+lq = mu
+lr = il
+ls = mu
+lt = il
+lu = mu
+lv = il
+lw = ko
+lx = il
+ly = mu
+lz = il
+
+
+[M]
+ma = ag
+mb = ha
+mc = ag
+md = ha
+me = ag
+mf = ha
+mg = gi
+mh = ha
+mi = ag
+mj = ha
+mk = ag
+ml = ha
+mm = gi
+mn = ha
+mo = ag
+mp = ka
+mq = ha
+mr = ag
+ms = ha
+mt = ag
+mu = ha
+mv = ag
+mw = no
+mx = ag
+my = ha
+mz = ag
+
+
+[N]
+na = ko
+nb = ka
+nc = ko
+nd = ka
+ne = ko
+nf = ka
+ng = mu
+nh = ka
+ni = ko
+nj = ka
+nk = ko
+nl = ka
+nm = mu
+nn = ka
+no = ko
+np = ha
+nq = ka
+nr = ko
+ns = ka
+nt = ko
+nu = ka
+nv = ko
+nw = il
+nx = ko
+ny = ka
+nz = ko
+
+
+[O]
+oa = no
+ob = gi
+oc = no
+od = gi
+oe = no
+of = gi
+og = ha
+oh = gi
+oi = no
+oj = gi
+ok = no
+ol = gi
+om = ha
+on = gi
+oo = no
+op = mu
+oq = gi
+or = no
+os = gi
+ot = no
+ou = gi
+ov = no
+ow = ag
+ox = no
+oy = gi
+oz = no
+
+
+[P]
+pa = ko
+pb = ka
+pc = ko
+pd = ka
+pe = ko
+pf = ka
+pg = mu
+ph = ka
+pi = ko
+pj = ka
+pk = ko
+pl = ka
+pm = mu
+pn = ka
+po = ko
+pp = ha
+pq = ka
+pr = ko
+ps = ka
+pt = ko
+pu = ka
+pv = ko
+pw = il
+px = ko
+py = ka
+pz = ko
+
+
+[Q]
+qa = ag
+qb = ha
+qc = ag
+qd = ha
+qe = ag
+qf = ha
+qg = gi
+qh = ha
+qi = ag
+qj = ha
+qk = ag
+ql = ha
+qm = gi
+qn = ha
+qo = ag
+qp = ka
+qq = ha
+qr = ag
+qs = ha
+qt = ag
+qu = ha
+qv = ag
+qw = no
+qx = ag
+qy = ha
+qz = ag
+
+
+[R]
+ra = ka
+rb = ko
+rc = ka
+rd = ko
+re = ka
+rf = ko
+rg = il
+rh = ko
+ri = ka
+rj = ko
+rk = ka
+rl = ko
+rm = il
+rn = ko
+ro = ka
+rp = ag
+rq = ko
+rr = ka
+rs = ko
+rt = ka
+ru = ko
+rv = ka
+rw = mu
+rx = ka
+ry = ko
+rz = ka
+
+
+[S]
+sa = gi
+sb = no
+sc = gi
+sd = no
+se = gi
+sf = no
+sg = ag
+sh = no
+si = gi
+sj = no
+sk = gi
+sl = no
+sm = ag
+sn = no
+so = gi
+sp = il
+sq = no
+sr = gi
+ss = no
+st = gi
+su = no
+sv = gi
+sw = ha
+sx = gi
+sy = no
+sz = gi
+
+
+[T]
+ta = il
+tb = mu
+tc = il
+td = mu
+te = il
+tf = mu
+tg = ka
+th = mu
+ti = il
+tj = mu
+tk = il
+tl = mu
+tm = ka
+tn = mu
+to = il
+tp = gi
+tq = mu
+tr = il
+ts = mu
+tt = il
+tu = mu
+tv = il
+tw = ko
+tx = il
+ty = mu
+tz = il
+
+
+[U]
+ua = ha
+ub = ag
+uc = ha
+ud = ag
+ue = ha
+uf = ag
+ug = no
+uh = ag
+ui = ha
+uj = ag
+uk = ha
+ul = ag
+um = no
+un = ag
+uo = ha
+up = ko
+uq = ag
+ur = ha
+us = ag
+ut = ha
+uu = ag
+uv = ha
+uw = gi
+ux = ha
+uy = ag
+uz = ha
+
+
+[V]
+va = ko
+vb = ka
+vc = ko
+vd = ka
+ve = ko
+vf = ka
+vg = mu
+vh = ka
+vi = ko
+vj = ka
+vk = ko
+vl = ka
+vm = mu
+vn = ka
+vo = ko
+vp = ha
+vq = ka
+vr = ko
+vs = ka
+vt = ko
+vu = ka
+vv = ko
+vw = il
+vx = ko
+vy = ka
+vz = ko
+ 
+
+
+[W]
+wa = gi
+wb = no
+wc = gi
+wd = no
+we = gi
+wf = no
+wg = ag
+wh = no
+wi = gi
+wj = no
+wk = gi
+wl = no
+wm = ag
+wn = no
+wo = gi
+wp = il
+wq = no
+wr = gi
+ws = no
+wt = gi
+wu = no
+wv = gi
+ww = ha
+wx = gi
+wy = no
+wz = gi
+
+[X]
+xa = mu
+xb = il
+xc = mu
+xd = il
+xe = mu
+xf = il
+xg = ko
+xh = il
+xi = mu
+xj = il
+xk = mu
+xl = il
+xm = ko
+xn = il
+xo = mu
+xp = no
+xq = il
+xr = mu
+xs = il
+xt = mu
+xu = il
+xv = mu
+xw = ka
+xx = mu
+xy = il
+xz = mu
+
+
+[Y]
+ya = ag
+yb = ha
+yc = ag
+yd = ha
+ye = ag
+yf = ha
+yg = gi
+yh = ha
+yi = ag
+yj = ha
+yk = ag
+yl = ha
+ym = gi
+yn = ha
+yo = ag
+yp = ka
+yq = ha
+yr = ag
+ys = ha
+yt = ag
+yu = ha
+yv = ag
+yw = no
+yx = ag
+yy = ha
+yz = ag
+
+
+[Z]
+za = ka
+zb = ko
+zc = ka
+zd = ko
+ze = ka
+zf = ko
+zg = il
+zh = ko
+zi = ka
+zj = ko
+zk = ka
+zl = ko
+zm = il
+zn = ko
+zo = ka
+zp = ag
+zq = ko
+zr = ka
+zs = ko
+zt = ka
+zu = ko
+zv = ka
+zw = mu
+zx = ka
+zy = ko
+zz = ka
+
