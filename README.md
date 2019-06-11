@@ -1,2 +1,2 @@
 # horde_to_alliance
-some translation
+some translations 
